@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestApiWeb", "RestApiWeb\RestApiWeb.csproj", "{7C07109A-A5F8-471D-B590-AAE7072E8D69}"
 EndProject
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "RestApiWeb.Azure", "RestApiWeb.Azure\RestApiWeb.Azure.ccproj", "{5EAAD585-8392-476F-80D0-EABB629B907F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{7C07109A-A5F8-471D-B590-AAE7072E8D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C07109A-A5F8-471D-B590-AAE7072E8D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C07109A-A5F8-471D-B590-AAE7072E8D69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EAAD585-8392-476F-80D0-EABB629B907F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EAAD585-8392-476F-80D0-EABB629B907F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EAAD585-8392-476F-80D0-EABB629B907F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EAAD585-8392-476F-80D0-EABB629B907F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
